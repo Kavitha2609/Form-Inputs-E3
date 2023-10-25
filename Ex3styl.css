@@ -1,0 +1,66 @@
+.container {
+    width: 90%;
+    margin: auto;
+}
+.r1 {
+    display: flex;  
+}
+
+.c1 {
+    width: 50%;
+}
+.style{
+    width: 82%;
+    height: 30px;
+}
+.style-1{
+    width: 83%;
+    height: 30px;
+}
+
+.c2 {
+    width: 50%;
+}
+.a {
+    width: 91%;
+    height: 30px;
+}
+.input{
+    width: 91%;
+    height: 40px;
+}
+.Text-style {
+    width: 90%;
+    height: 100px;
+}
+.b {
+    width: 90%;
+    text-align: end;
+}
+.bs {
+    background-color: white;
+    color: blue;
+    border: 2px solid green;
+    padding: 4px 30px;
+    border-radius: 10px;
+}
+.bs:hover{
+    background-color:red;
+    color:rosybrown;
+    cursor: pointer;
+}
+.mg-1{
+    width: 50%;
+    text-align: center;
+}
+.mg-2{
+    width: 50%;
+    text-align: center;
+}
+.container-1{
+    width: 90%;
+    margin: auto;
+}
+.r-1{
+    display: flex;
+}
